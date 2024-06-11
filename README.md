@@ -3,6 +3,9 @@
 ## Overview
 This Python script creates a flashcard application to help users learn French vocabulary. It uses the `tkinter` library for the graphical user interface (GUI) and `pandas` for handling data. The app displays French words on flashcards and prompts users to recall the English translations.
 
+## About the files
+Main.py is the main file that contains entire code. Card_front and card_back are the images used for background. Similarly, right and wrong are the images used for cross and correct buttons. Last but not the least, french_words is the csv file containing the data.
+
 ## Features
 - **Interactive Flashcards**: Displays French words and flips to show English translations.
 - **Progress Tracking**: Saves progress by removing known words from the list.
